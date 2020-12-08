@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="add5e5ee-c439-4044-aea8-7e8c5b6d052b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X1ppzmpsEjIsUvLHzn4xRK5eAe" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="D:/COMP7500/Assignment2_Distributed" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RunManager" selected="Application.SearchInaASortedInfiniteArray">
+    <configuration name="FindFirstandLastPositionofElementinSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.FindFirstandLastPositionofElementinSortedArray" />
+      <module name="LeetCodeProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindtheDuplicateNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.FindtheDuplicateNumber" />
+      <module name="LeetCodeProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.NumberRange" />
+      <module name="LeetCodeProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchA2DMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.SearchA2DMatrix" />
+      <module name="LeetCodeProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchInaASortedInfiniteArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.SearchInaASortedInfiniteArray" />
+      <module name="LeetCodeProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SearchInaASortedInfiniteArray" />
+        <item itemvalue="Application.NumberRange" />
+        <item itemvalue="Application.SearchA2DMatrix" />
+        <item itemvalue="Application.FindtheDuplicateNumber" />
+        <item itemvalue="Application.FindFirstandLastPositionofElementinSortedArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="add5e5ee-c439-4044-aea8-7e8c5b6d052b" name="Default Changelist" comment="" />
+      <created>1580223641452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580223641452</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="556" y="101" width="812" height="727" key="#Intentions" timestamp="1602041460973">
+      <screen x="0" y="0" width="1368" height="882" />
+    </state>
+    <state x="556" y="101" width="812" height="727" key="#Intentions/0.0.1368.882@0.0.1368.882" timestamp="1602041460973" />
+    <state x="471" y="203" key="FileChooserDialogImpl" timestamp="1606977137194">
+      <screen x="0" y="0" width="1368" height="882" />
+    </state>
+    <state x="471" y="203" key="FileChooserDialogImpl/0.0.1368.882@0.0.1368.882" timestamp="1606977137194" />
+    <state width="1326" height="284" key="GridCell.Tab.0.bottom" timestamp="1606628208563">
+      <screen x="0" y="0" width="1368" height="882" />
+    </state>
+    <state width="1326" height="284" key="GridCell.Tab.0.bottom/0.0.1368.882@0.0.1368.882" timestamp="1606628208563" />
+    <state width="727" height="168" key="GridCell.Tab.0.bottom/0.0.1368.912@0.0.1368.912" timestamp="1602310533350" />
+    <state width="1326" height="284" key="GridCell.Tab.0.center" timestamp="1606628208563">
+      <screen x="0" y="0" width="1368" height="882" />
+    </state>
+    <state width="1326" height="284" key="GridCell.Tab.0.center/0.0.1368.882@0.0.1368.882" timestamp="1606628208563" />
+    <state width="727" height="168" key="GridCell.Tab.0.center/0.0.1368.912@0.0.1368.912" timestamp="1602310533350" />
+    <state width="1326" height="284" key="GridCell.Tab.0.left" timestamp="1606628208562">
+      <screen x="0" y="0" width="1368" height="882" />
+    </state>
+    <state width="1326" height="284" key="GridCell.Tab.0.left/0.0.1368.882@0.0.1368.882" timestamp="1606628208562" />
+    <state width="727" height="168" key="GridCell.Tab.0.left/0.0.1368.912@0.0.1368.912" timestamp="1602310533349" />
+    <state width="1326" height="284" key="GridCell.Tab.0.right" timestamp="1606628208563">
+      <screen x="0" y="0" width="1368" height="882" />
+    </state>
+    <state width="1326" height="284" key="GridCell.Tab.0.right/0.0.1368.882@0.0.1368.882" timestamp="1606628208563" />
+    <state width="727" height="168" key="GridCell.Tab.0.right/0.0.1368.912@0.0.1368.912" timestamp="1602310533350" />
+    <state width="1326" height="284" key="GridCell.Tab.1.bottom" timestamp="1606628208563">
+      <screen x="0" y="0" width="1368" height="882" />
+    </state>
+    <state width="1326" height="284" key="GridCell.Tab.1.bottom/0.0.1368.882@0.0.1368.882" timestamp="1606628208563" />
+    <state width="1326" height="284" key="GridCell.Tab.1.center" timestamp="1606628208563">
+      <screen x="0" y="0" width="1368" height="882" />
+    </state>
+    <state width="1326" height="284" key="GridCell.Tab.1.center/0.0.1368.882@0.0.1368.882" timestamp="1606628208563" />
+    <state width="1326" height="284" key="GridCell.Tab.1.left" timestamp="1606628208563">
+      <screen x="0" y="0" width="1368" height="882" />
+    </state>
+    <state width="1326" height="284" key="GridCell.Tab.1.left/0.0.1368.882@0.0.1368.882" timestamp="1606628208563" />
+    <state width="1326" height="284" key="GridCell.Tab.1.right" timestamp="1606628208563">
+      <screen x="0" y="0" width="1368" height="882" />
+    </state>
+    <state width="1326" height="284" key="GridCell.Tab.1.right/0.0.1368.882@0.0.1368.882" timestamp="1606628208563" />
+    <state x="193" y="35" key="SettingsEditor" timestamp="1606977078631">
+      <screen x="0" y="0" width="1368" height="882" />
+    </state>
+    <state x="193" y="35" key="SettingsEditor/0.0.1368.882@0.0.1368.882" timestamp="1606977078631" />
+    <state x="385" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1606723622456">
+      <screen x="0" y="0" width="1368" height="882" />
+    </state>
+    <state x="385" y="272" key="com.intellij.ide.util.TipDialog/0.0.1368.882@0.0.1368.882" timestamp="1606723622456" />
+    <state x="100" y="89" key="new project wizard" timestamp="1606977140681">
+      <screen x="0" y="0" width="1368" height="882" />
+    </state>
+    <state x="100" y="89" key="new project wizard/0.0.1368.882@0.0.1368.882" timestamp="1606977140681" />
+  </component>
+</project>
